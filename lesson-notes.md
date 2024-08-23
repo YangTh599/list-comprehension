@@ -32,7 +32,7 @@ print(squared_numbers)
 
 # Output: [1, 4, 9, 16, 25]
 
-# Using a FOR loop to make a list of squared numbers
+# Starting with the same list of original numbers
 numbers = [1, 2, 3, 4, 5]
 
 # Create a NEW list using list comprehension
