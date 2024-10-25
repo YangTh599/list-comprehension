@@ -5,7 +5,7 @@
 - Read these notes and check out the related resources before you start writing any code for this lesson
 
 ### Related Resources
-- In *Python Crash Course*, see pp. 59 60 (List Comprehensions)
+- In *Python Crash Course*, see pp. 59 - 60 (List Comprehensions)
 - [Python List Comprehension](https://www.programiz.com/python-programming/list-comprehension)
 
 
