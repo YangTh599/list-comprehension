@@ -9,6 +9,10 @@ Learn how to use **list comprehension**, a shortcut and newer way to generate a 
 - For example, you could take a list of numbers 1 - 10 and tell Python to multiply each number in the list by 100
 - Using list comprehension, you can add the result of each calculation to a NEW list, which you could then print or modify further, if desired
 
+### Related Resources
+
+- 
+
 ### Coding Tasks
 
 #### Title Case Names
@@ -34,4 +38,4 @@ inches = [14, 20, 36, 40]
 - Your new list should contain the equivalent length **in centimeters**
 - For example, using the `inches` list above, what would be the equivalent of 14 inches **in centimeters**?
 - Print both the original `inches` list and your new `centimeters` list
-- Also add print statements that identify which list is which in the output
+- Also add print statements that identify which list is which in your output
