@@ -11,7 +11,7 @@ Learn how to use **list comprehension**, a shortcut and newer way to generate a 
 
 ### Related Resources
 
-- 
+- YouTube: [Bro Code / List Comprehension](https://youtu.be/fcLDzKH_5XM?feature=shared)
 
 ### Coding Tasks
 
