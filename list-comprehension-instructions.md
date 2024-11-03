@@ -23,3 +23,14 @@ Learn how to use **list comprehension**, a shortcut and newer way to generate a 
 - Add an `if` statement to your list comprehension that checks the length of EACH student name; if the length of the name is GREATER THAN OR EQUAL TO 4 characters, Python should include the name in the new list of lowercase names
 - Finally, print the new list of lowercase names
 - See the `list_comprehension_demo1.py` file for examples of how to get started with list comprehension
+
+#### Inches to Centimeters
+
+- Define a list named `inches` and add to it 7 - 8 numbers that represent different lengths in inches
+```python
+inches = [14, 20, 36, 40]
+```
+- Use list comprehension to generate a NEW list named `centimeters`
+- Your new list should contain the equivalent length **in centimeters**
+- For example, using the `inches` list above, what would be the equivalent of 14 inches **in centimeters**?
+- Print both the original `inches` list and your new `centimeters` list
