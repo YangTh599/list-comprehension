@@ -11,6 +11,8 @@ Learn how to use **list comprehension**, a shortcut and newer way to generate a 
 
 ### Related Resources
 
+Check out this YouTube video about list comprehension before you write any code for this practice project.
+
 - YouTube: [Net Ninja / List Comprehension](https://youtu.be/7G0jqG_kiig?feature=shared)
 
 ### Coding Tasks
