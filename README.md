@@ -1,2 +1,0 @@
-# python-list-comprehension-starter
-
