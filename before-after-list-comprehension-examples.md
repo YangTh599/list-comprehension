@@ -1,5 +1,8 @@
 
-Below are the examples that show you how to use a **`for` loop with a list** and then **list comprehension**, allowing you to directly contrast the two approaches.
+Below are the examples that show you how to work with Python lists using two techniques:
+
+- a **`for` loop** (a more traditional approach)
+- **list comprehension** (a shorter and more modern approach)
 
 ### 1. **Creating a List of Squares**
 
