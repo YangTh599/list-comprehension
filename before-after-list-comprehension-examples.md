@@ -1,5 +1,5 @@
 
-Below are the examples where each one is first written using a **`for` loop with a list** and then rewritten using **list comprehension**, allowing you to directly contrast the two approaches.
+Below are the examples that show you how to use a **`for` loop with a list** and then **list comprehension**, allowing you to directly contrast the two approaches.
 
 ### 1. **Creating a List of Squares**
 
