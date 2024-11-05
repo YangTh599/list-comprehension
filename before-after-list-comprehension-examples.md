@@ -165,7 +165,7 @@ print(vowel_words)
 
 ---
 
-### Summary of Differences:
+### Summary:
 
 - **Using `for` loops** requires you to write more code, since you are manually creating and then adding items to your list.
 - **List comprehension** uses a single line of code to create a list and add items to it, making your code easier to read and maintain. It's especially helpful when you just need to create or modify lists based on some condition or math operation.
