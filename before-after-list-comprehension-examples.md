@@ -110,7 +110,7 @@ print(first_n_elements)
 ```
 
 #### With List Comprehension
-This task can be done concisely with list comprehension.
+Using list comprehension, this same task can be completed with fewer lines of code.
 
 ```python
 # Extract the first N elements from a list
