@@ -88,9 +88,6 @@ print(uppercase_words)
 ```
 ['APPLE', 'BANANA', 'CHERRY']
 ```
-
-Of course! Here are two more examples to help illustrate how to work with lists using `for` loops, both with and without list comprehension.
-
 ---
 
 ### 4. **Extracting the First N Elements of a List**
