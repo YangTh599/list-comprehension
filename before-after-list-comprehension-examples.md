@@ -124,7 +124,7 @@ print(first_n_elements)
 [10, 20, 30, 40]
 ```
 
-*Explanation:* Both methods *iterate* (loop) through the first `n` elements of the `numbers` list and add them to a new list. The list comprehension does it in a single line, while the `for` loop requires you to first create a list creation and then add items to your list using the `append()` method.
+*Explanation:* Both methods *iterate* (loop) through the first `n` elements of the `numbers` list and add them to a new list. The list comprehension does it in a single line, while the `for` loop requires you to first create a list and then add items to your list using the `append()` method.
 
 ---
 
