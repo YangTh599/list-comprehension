@@ -41,3 +41,16 @@ inches = [14, 20, 36, 40]
 - For example, using the `inches` list above, what would be the equivalent of 14 inches **in centimeters**?
 - Print both the original `inches` list and your new `centimeters` list
 - Also add print statements that identify which list is which in your output
+
+#### Filtered Last Names
+
+- Use list comprehension to generate a new list of last names that only begin with the letter 'b'
+- Start by creating the following list of last names:
+
+```python
+last_names = ['Williams', 'Perez', 'Matthes', 'Brown', 'Carlsen', 'Brimley', 'Vincent']
+```
+- Use an `if` statement in your list comprehension to create a NEW list containing only those names from the original list that start with the letter 'b'
+- HINT: You can use index numbers with strings (just like you use index numbers with Python lists)
+- HINT: What Python method can you use to convert the uppercase last names to all lowercase?
+- Print the original list and the new list
