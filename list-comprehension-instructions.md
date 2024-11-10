@@ -53,4 +53,4 @@ last_names = ['Williams', 'Perez', 'Matthes', 'Brown', 'Carlsen', 'Brimley', 'Vi
 - Use an `if` statement in your list comprehension to create a NEW list containing only those names from the original list that start with the letter 'b'
 - HINT: Each character in a string has an index number, just like each item in a Python list has an index number
 - HINT: What Python method can you use to convert your uppercase last names to all lowercase last names?
-- Print the original list and the new list
+- Print the original list and the filtered list of last names
